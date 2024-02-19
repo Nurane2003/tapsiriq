@@ -1,0 +1,76 @@
+header{
+    text-align: center;
+    background-color: rgb(224, 217, 217);
+    color: black;
+    padding: 30px 40px;
+    font-size: 22px;
+}
+#left{
+    display: inline-block;
+    background-color: rgb(104, 97, 97);
+    padding-left: 141px;
+    padding-top: 25px;
+    padding-bottom: 22px;
+    margin-top: 20px;
+     width: 300px;
+    color: aliceblue;
+    font-size: 22px;
+}
+#middle{
+    display: inline-block;
+    width: 300px;
+    padding-left: 149px;
+    padding-top: 25px;
+    padding-bottom: 22px;
+    background-color: rgb(145, 140, 140);
+    color: rgb(253, 253, 253);
+    font-size: 22px;
+    width: 300px;
+}
+#right{
+    display: inline-block;
+    background-color: rgb(104, 97, 97);
+    color: aliceblue;
+    font-size: 22px;
+    width: 300px;
+    padding-left: 150px;
+    padding-top: 25px;
+    padding-bottom: 22px;
+}
+#full{
+    text-align: center;
+    margin-top: 20px;
+    height: 180px;
+    padding-top: 30px;
+    font-size: 22px;
+    background-color: rgb(226, 221, 214);
+
+}
+aside{
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 40px;
+    background-color: rgb(252, 252, 252);
+    padding: 20px 100px 70px 95px;
+    font-size: 20px;
+    height: 50px;
+
+    }
+#division{
+    padding-right: 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+   background-color: rgb(128, 128, 245);
+    padding-top: 25px;
+    font-size: 22px;
+    padding-bottom: 27px;
+    
+}
+footer{
+    background-color: rgb(204, 195, 195);
+    margin-top: 90px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 45%;
+    font-size: 22px;
+}
